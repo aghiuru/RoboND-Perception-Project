@@ -1,5 +1,5 @@
 [clusters]: ./images/clusters.png
-[confustion_matrix]: ./images/confustion_matrix.png
+[confusion_matrix]: ./images/confusion_matrix.png
 [labels-1]: ./images/labels-1.png
 [labels-2]: ./images/labels-2.png
 [labels-3]: ./images/labels-3.png
